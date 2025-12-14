@@ -6,9 +6,9 @@ This project focuses on analyzing retail sales data to evaluate sales performanc
 ---
 
 ## 🎯 Objectives
-● To analyze sales performance over time 
-● To identify top and low-performing products and regions 
-● To explore sales trends using visualizations 
+-  To analyze sales performance over time 
+-  To identify top and low-performing products and regions 
+-  To explore sales trends using visualizations 
 
 ---
 
