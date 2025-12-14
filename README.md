@@ -6,10 +6,9 @@ This project focuses on analyzing retail sales data to evaluate sales performanc
 ---
 
 ## 🎯 Objectives
-- Analyze sales and profit trends over time  
-- Identify high and low-performing products, regions, and ship modes  
-- Study the impact of discounts on profitability  
-- Support data-driven decision-making  
+● To analyze sales performance over time 
+● To identify top and low-performing products and regions 
+● To explore sales trends using visualizations 
 
 ---
 
